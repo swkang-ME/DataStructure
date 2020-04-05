@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "employee.h": "c",
+        "stdio.h": "c"
     }
 }
